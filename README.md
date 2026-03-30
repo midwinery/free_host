@@ -1,9 +1,14 @@
 ### Guide
 
-感谢您关注高亮亭发布的岗位，现在所有岗位已关闭。
+
+以下为上海高亮亭信息技术有限公司开放的岗位面试，请按照相应岗位的 README 指引完成面试。
 
 
-~~以下为上海高亮亭信息技术有限公司开放的岗位面试，请按照相应岗位的 README 指引完成面试。~~
+#### 葡萄酒编辑 -> [高亮亭_葡萄酒编辑_面试题.txt](https://github.com/midwinery/free_host/blob/main/%E9%AB%98%E4%BA%AE%E4%BA%AD_%E8%91%A1%E8%90%84%E9%85%92%E7%BC%96%E8%BE%91_%E9%9D%A2%E8%AF%95%E9%A2%98.txt)
+
+
+
+感谢您关注高亮亭发布的岗位，以下岗位已关闭。
 
 #### ~~提示词工程师 -> [高亮亭_prompt engineer 代码面试题.zip](https://github.com/midwinery/free_host/raw/refs/heads/main/%E9%AB%98%E4%BA%AE%E4%BA%AD_prompt%20engineer%20%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E9%A2%98.zip)~~
 
