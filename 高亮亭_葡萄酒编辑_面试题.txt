@@ -1,0 +1,15 @@
+葡萄酒编辑面试题
+
+任务：
+这是一个酒款 tech sheet，找到原始文件，翻译图片中打码的内容。
+https://github.com/user-attachments/assets/30ae10f0-9fa1-4988-ac0a-e6371e3fdd5f
+
+提交内容：
+1. 简历 pdf
+2. 找到的原始 pdf
+3. 翻译后的内容（txt 即可）
+
+
+发送至邮箱 recruit@gaoliangting.com
+   a. 邮件名 张三_葡萄酒编辑_全职/兼职
+   b. 张三_葡萄酒编辑_全职.zip （将提交物打包作为附件）
