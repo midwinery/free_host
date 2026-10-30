@@ -4,13 +4,14 @@
 以下为上海高亮亭信息技术有限公司开放的岗位面试，请按照相应岗位的 README 指引完成面试。
 岗位仅面向上海地区，若不能参加线下面试，请勿投递。
 
-#### 算法实习生 -> [高亮亭_算法实习生_笔试.zip](https://github.com/midwinery/free_host/blob/main/%E9%AB%98%E4%BA%AE%E4%BA%AD_%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F_%E7%AC%94%E8%AF%95.zip)
+#### 葡萄酒活动运营 -> [高亮亭_葡萄酒活动运营_面试题.txt](https://raw.githubusercontent.com/midwinery/free_host/refs/heads/main/%E9%AB%98%E4%BA%AE%E4%BA%AD_%E8%91%A1%E8%90%84%E9%85%92%E6%B4%BB%E5%8A%A8%E8%BF%90%E8%90%A5_%E9%9D%A2%E8%AF%95%E9%A2%98.txt)
 
 
 
 
 感谢您关注高亮亭发布的岗位，以下岗位已关闭。
 
+#### ~~算法实习生 -> [高亮亭_算法实习生_笔试.zip](https://github.com/midwinery/free_host/blob/main/%E9%AB%98%E4%BA%AE%E4%BA%AD_%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F_%E7%AC%94%E8%AF%95.zip)~~
 
 #### ~~资深AI产品经理 -> [高亮亭_资深产品经理面试.txt](https://raw.githubusercontent.com/midwinery/free_host/refs/heads/main/%E9%AB%98%E4%BA%AE%E4%BA%AD_%E8%B5%84%E6%B7%B1%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E9%9D%A2%E8%AF%95.txt)~~
 
